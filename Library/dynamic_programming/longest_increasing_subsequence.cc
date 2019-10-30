@@ -57,6 +57,6 @@ vector<T> longest_increasing_subsequence(const vector<T> &x) {
 
 int main() {
   vector<int> x = {3,1,4,2};
-  auto y = lis(x);
+  auto y = longest_increasing_subsequence(x);
   for (auto a: y) cout << a << " "; cout << endl;
 }
