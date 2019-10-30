@@ -34,6 +34,8 @@
 #include <vector>
 #include <cstdio>
 #include <algorithm>
+#include<bits/stdc++.h>
+#define all(c) ((c).begin()), ((c).end())
 
 using namespace std;
 
