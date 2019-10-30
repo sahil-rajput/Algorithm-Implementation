@@ -1,2 +1,2 @@
 # Algorithm-Implementation
-Implementation of all useful Algorithmd
+Implementation of all useful Algorithms
